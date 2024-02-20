@@ -7,4 +7,4 @@ DEVELOPER / TEAM |
 Introduction
 A Full Calculator all done in PHP.
 
-As continuing with the list of small projects, a big step forward in the previous calculator :calculator:. 
+As continuing with the list of small projects, a big step forward in the previous calculator :calculator: . 
