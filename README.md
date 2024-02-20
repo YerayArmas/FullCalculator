@@ -1,7 +1,8 @@
 # FullCalculator
 Full PHP Calculator
 
-DEVELOPER / TEAM |
+DEVELOPER / TEAM 
+
 ♊ Yeray Armas: https://github.com/JEDI84
 
 Introduction
